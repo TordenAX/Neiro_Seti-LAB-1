@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Maksik\source\repos\Laba2\Laba2\Source.cpp(40,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maksik\source\repos\Laba2\Laba2\Source.cpp(46,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Laba2.vcxproj -> C:\Users\Maksik\source\repos\Laba2\Debug\Laba2.exe
